@@ -1,0 +1,28 @@
+{
+  "manifest_version": "1.0",
+  "org": "click-contrib",
+  "repo": "click-plugins",
+  "versions": [
+    {
+      "commit": "ab3c1e7f0bd8a5c47ecc7db9ed9cfebe80b22175",
+      "parsed_at": "2026-10-18T04:11:36.577729+00:00",
+      "filetree": "filetree/ab3c1e7f0bd8a5c47ecc7db9ed9cfebe80b22175.nq.gz",
+      "blobs": [
+        "blob/f88694e17d1fe8cc05b81fc60b95eb3bdfc31a79.nq.gz",
+        "blob/dfc55a32436b05bf95ffdc8369274740238c67bb.nq.gz",
+        "blob/d095200e3f7c6a2229f4512562ab2cf2de6f11e8.nq.gz",
+        "blob/f2f8dff3da9cc451eafcc1cdb130b0538e97b174.nq.gz",
+        "blob/eae1c9a8b3f465731dacd8634f5f55f288587ee5.nq.gz",
+        "blob/78f90b4f33df848ad7e7b97edb5341bf302add8b.nq.gz",
+        "blob/90bad5fd3814cf453fa6a5ebd5586acc92a3b363.nq.gz",
+        "blob/ae906b30e103b76e560c747cc495286ad061ada6.nq.gz",
+        "blob/0d3356c4299c695fa2717036bcb9e7156733e713.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
